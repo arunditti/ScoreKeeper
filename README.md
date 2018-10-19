@@ -1,7 +1,3 @@
 # ScoreKeeper
-# Screenshots![screenshot_1539480609](https://user-images.githubusercontent.com/8518978/46911797-448adb80-cf34-11e8-9335-116ba785fb46.png)
-![screenshot_1539480636](https://user-images.githubusercontent.com/8518978/46911799-49e82600-cf34-11e8-88ab-d50277f6bf8c.png)
-![screenshot_1539480647](https://user-images.githubusercontent.com/8518978/46911800-4ce31680-cf34-11e8-8924-63a22ad67331.png)
-![screenshot_1539481700](https://user-images.githubusercontent.com/8518978/46911801-4fde0700-cf34-11e8-95e1-cdd4fd4e0a00.png)
-![screenshot_1539481724](https://user-images.githubusercontent.com/8518978/46911803-53718e00-cf34-11e8-8326-c6bcabdb7563.png)
+# Screenshots![screenshot_1539480609-2](https://user-images.githubusercontent.com/8518978/47227989-1c670680-d392-11e8-8edf-257b80073f23.png)  ![screenshot_1539480636](https://user-images.githubusercontent.com/8518978/47228002-24bf4180-d392-11e8-854b-c53bbe208bc5.png)  ![screenshot_1539480647](https://user-images.githubusercontent.com/8518978/47228005-2852c880-d392-11e8-9532-e4333aba4798.png)  ![screenshot_1539481691](https://user-images.githubusercontent.com/8518978/47228009-2a1c8c00-d392-11e8-84aa-45cbf4e6dad8.png)
 
